@@ -45,9 +45,9 @@ Name                        Bernardo de Freitas<br>
 ✉️ contact                  https://github.com/b166erbot#contact
 </p>
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 id="contact" align="center">You can reach me at :alien:</h2>
 
-<p id="contact" align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/bernardo-de-freitas-teodoro-18a5322a9/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="b166erbot's LinkedIn Profile" height="30" width="30">
   </a>
