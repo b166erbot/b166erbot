@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Angel Jaime
+# Bernardo de Freitas
 
 <h2 align="center">About me</h2>
 
@@ -10,7 +10,7 @@ import this
 class Bio:
     def __init__(self, data: list[str]):
         self.data = data
-    
+
     def format(self) -> str:
         keys = [
             'Name', '⚡ Quick bio', '🔭 i\'m currently studing on',
@@ -24,7 +24,7 @@ class Bio:
 
 data = [
     'Bernardo de Freitas',
-    'A kind of dubstep head, python lover, not gamer, coder, programmer, '
+    'A kind of full-stack developer, dubstep head, python lover, not gamer, coder, programmer, '
     'depressive :smiling_face_with_tear:, dog lover',
     'Trybe', 'javascript, html, css',
     'python, javascript, html, css, sql, functional paradigm',
@@ -36,33 +36,24 @@ print(Bio(data).format())
 ```
 
 <p>
-output:
-Name                        Bernardo de Freitas
-⚡ Quick bio                A kind of dubstep head, python lover, not gamer, coder, programmer, depressive :smiling_face_with_tear:, dog lover
-🔭 i'm currently studing on Trybe
-🌱 I’m currently learning   javascript, html, css
-💬 Ask me about             python, javascript, html, css, sql, functional paradigm
+output:<br>
+Name                        Bernardo de Freitas<br>
+⚡ Quick bio                A kind of dubstep head, python lover, not gamer, coder, programmer, depressive :smiling_face_with_tear:, dog lover <br>
+🔭 i'm currently studing on Trybe<br>
+🌱 I’m currently learning   javascript, html, css<br>
+💬 Ask me about             python, javascript, html, css, sql, functional paradigm<br>
 ✉️ contact                  https://github.com/b166erbot#contact
 </p>
 
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p id="contact" align="center">
-  <a href="https://www.linkedin.com/in/bernardo-de-freitas-teodoro-18a5322a9/">
+  <a href="https://www.linkedin.com/in/bernardo-de-freitas-teodoro-18a5322a9/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="b166erbot's LinkedIn Profile" height="30" width="30">
   </a>
 
-  <a href="https://t.me/usuario_comum">
+  <a href="https://t.me/usuario_comum" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="b166erbot's Telegram Profile" height="30" width="30">
-  </a>
-</p>
-
-<h2 align="center">My stack :man_technologist:</h2>
-
-<p align="center">Tools that I use on a daily basis, or that I've used or worked</p>
-<p align="center">
-  <a href="https://stackshare.io/b166erbot/my-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="b166erbot :: StackShare" />
   </a>
 </p>
 
