@@ -52,7 +52,7 @@ Name                        Bernardo de Freitas<br>
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="b166erbot's LinkedIn Profile" height="30" width="30">
   </a>
 
-  <a href="https://t.me/usuario_comum" target="_blank">
+  <a href="https://t.me/coquinha_geladinha" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="b166erbot's Telegram Profile" height="30" width="30">
   </a>
 </p>
